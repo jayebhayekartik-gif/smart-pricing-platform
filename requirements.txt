@@ -1,0 +1,13 @@
+streamlit
+supabase
+postgrest
+pandas
+numpy
+scikit-learn
+xgboost
+lightgbm
+tensorflow-cpu
+plotly
+python-dotenv
+requests
+

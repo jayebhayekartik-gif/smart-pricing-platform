@@ -1,0 +1,15 @@
+.venv/
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+.env
+.DS_Store
+.ipynb_checkpoints
+*.dll
+*.so
+*.dylib
+*.exe
+*.log
+.idea/
+.vscode/
