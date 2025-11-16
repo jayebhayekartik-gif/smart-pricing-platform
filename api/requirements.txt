@@ -4,7 +4,8 @@ supabase
 pydantic
 numpy
 pandas
+scikit-learn
 xgboost
 lightgbm
-scikit-learn
 python-dotenv
+
